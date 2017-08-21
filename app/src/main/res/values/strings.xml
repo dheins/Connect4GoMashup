@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simacogo</string>
+    <string name="player">Player</string>
+    <string name="computer">Computer</string>
+    <string name="youwin">Winner!!!</string>
+    <string name="lose">You Lose</string>
+    <string name="score">Score</string>
+    <string name="playAgain">Play Again</string>
+    <string name="exit">Exit</string>
+    <string name="diff">Enter difficulty (1-10)</string>
+</resources>
