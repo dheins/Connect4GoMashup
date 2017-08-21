@@ -1,0 +1,2 @@
+# Connect4GoMashup
+This is an Android game that combines Connect4 and Go into a new hybrid game!  It is played on a 9x9 board where each player takes turns 'droping' thier piece onto the board.  Each player scores 2 points for placing pieces next to eachother either horizontally or vertically and 1 point for pieces placed diagonally from eachother.  The AI player utilizes the MiniMax algorithm with alpha-beta prunning to choose its next move.  The difficulty is the number of moves ahead the AI player will look before choosing its next move.
